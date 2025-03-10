@@ -22,7 +22,7 @@ void transposeMatrix(int **A, int arrNum){
         printf("\n");
     }
 }
-
+//a. Write a program to allow user input size of a 2D-array and enter the value for each elements of this 2D-array.
 int main(){
     int arrNum;
     printf("Enter the number of 2D array you want: ");
